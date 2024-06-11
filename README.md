@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :woman_technologist: About Me :
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arina842&theme=modern-lilac2&hide_border=true&border_radius=40&card_width=550&card_height=200&type=png)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arina842&theme=dark-minimalist&card_width=500)](https://git.io/streak-stats)
 
