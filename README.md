@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arina842&theme=dark-minimalist&card_width=500)](https://git.io/streak-stats)
+
 ---
 
 <div>
