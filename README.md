@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arina842&theme=dark-minimalist&hide_border=true&border_radius=40&card_width=900&card_height=200&type=png)](https://git.io/streak-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 <div>
