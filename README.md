@@ -1,4 +1,4 @@
-## Hi  ✨ _special_ ✨👋
+## ✨  _ Hi special_ ✨👋
 ---
 
 - 🔭 I’m currently working on my skills
