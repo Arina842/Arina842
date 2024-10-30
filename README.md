@@ -1,4 +1,4 @@
-# <div align="center"> ## _Hi_ 👋 _I'm Arina_  ✨ </div>
+# <div align="center"> _Hi_ 👋 _I'm Arina_  ✨ </div>
 
 
 - 🔭 I’m currently working on my skills
