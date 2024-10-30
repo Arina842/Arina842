@@ -10,12 +10,13 @@
 </div>
 
 ---
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arina842&theme=dark-minimalist&hide_border=true&border_radius=40&card_width=900&card_height=200&type=png)](https://git.io/streak-stats)
 ### Languages and Tools:
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Git](https://img.shields.io/badge/Git-%23F05033?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arina842&theme=dark-minimalist&hide_border=true&border_radius=40&card_width=900&card_height=200&type=png)](https://git.io/streak-stats)
+
 
 ---
 
