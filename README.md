@@ -1,4 +1,4 @@
-## ✨ _Hi_ _special_ ✨👋
+## ✨ _Hi_👋_I'm Arina_  ✨ 
 
 
 - 🔭 I’m currently working on my skills
