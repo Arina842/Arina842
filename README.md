@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: @Sunshine842
+- 📫 How to reach me: arina1416@yandex.ru
 - ⚡ Fun fact: ...
 <div >
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNjcGtjdDFyang3M3doNTQ1MWFzMW1vaTJsbzBrejMyYXR5dDgyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOrwpPFzqDh48XEek/giphy-downsized.gif"/>
@@ -15,8 +15,9 @@
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Git](https://img.shields.io/badge/Git-%23F05033?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![mysql](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
+### Connect with me:
 
-
+[![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=flat&logo=telegram&logoColor=white)](https://t.me/Sunshine842)
 
 ---
 
