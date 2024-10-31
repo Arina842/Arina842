@@ -17,7 +17,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=flat&logo=telegram&logoColor=white)](https://t.me/Sunshine842)
 ### Languages and Tools:
 [![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
-
 [![Git](https://img.shields.io/badge/Git-%23F05033?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
