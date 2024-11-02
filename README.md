@@ -12,7 +12,7 @@
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arina842&theme=dark-minimalist&hide_border=true&border_radius=40&card_width=900&card_height=200&type=png)](https://git.io/streak-stats)
 
-
+---
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=flat&logo=telegram&logoColor=white)](https://t.me/Sunshine842)
 ### Languages and Tools:
