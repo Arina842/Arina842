@@ -9,8 +9,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNjcGtjdDFyang3M3doNTQ1MWFzMW1vaTJsbzBrejMyYXR5dDgyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOrwpPFzqDh48XEek/giphy-downsized.gif"/>
 </div>
 
----
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Arina842&theme=dark-minimalist&hide_border=true&border_radius=40&card_width=900&card_height=200&type=png)](https://git.io/streak-stats)
+
 
 ---
 ### Connect with me:
