@@ -9,7 +9,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNjcGtjdDFyang3M3doNTQ1MWFzMW1vaTJsbzBrejMyYXR5dDgyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOrwpPFzqDh48XEek/giphy-downsized.gif"/>
 </div>
 
-###---
+---
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=flat&logo=telegram&logoColor=white)](https://t.me/Sunshine842)
 
