@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my skills
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: arina1416@yandex.ru
-- ✨ About me: [about me](https://arina842.github.io/)
+- ✨ About me: [my site](https://arina842.github.io/)
 - ⚡ Fun fact about me: ...
 <div >
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNjcGtjdDFyang3M3doNTQ1MWFzMW1vaTJsbzBrejMyYXR5dDgyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOrwpPFzqDh48XEek/giphy-downsized.gif"/>
