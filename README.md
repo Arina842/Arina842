@@ -11,7 +11,6 @@
 </div>
 
 
----
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=flat&logo=telegram&logoColor=white)](https://t.me/Sunshine842)
 
